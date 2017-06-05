@@ -1,0 +1,125 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Starry Night.",
+            "id": 212,
+            "datum": "18/05/2017 • 00:45",
+            "categorieen": ["oilpainting", "1800s", "Modern"],
+            "samenvatting": "Starry Night by Vincent Van Gogh",
+            "body": "<p>Starry Night by Vincent Van Gogh shows the village of Saint-Remy under a swirling sun. It is one of the most well-known images in modern culture and is currently housed in the Museum of Modern Art in New York. <br><br>Vincent Willem van Gogh (Zundert, 30 maart 1853 – Auvers-sur-Oise, 29 juli 1890) was een Nederlands kunstschilder. Zijn werk valt onder het postimpressionisme, een kunststroming die het negentiende-eeuwse impressionisme opvolgde. Van Goghs invloed op het expressionisme, het fauvisme en de vroege abstractie was enorm en kan worden gezien in vele andere aspecten van de twintigste-eeuwse kunst. Het Van Gogh Museum in Amsterdam is gewijd aan het werk van Van Gogh en zijn tijdgenoten.</p>",
+            "afbeeldingl": "s1.jpg",
+            "afbeeldings": "s1.jpg",
+            "afbeeldinge1": "s1_1.jpg",
+            "tags": "starry"
+        },
+        {
+            "titel": "The Last Supper.",
+            "id": 210,
+            "datum": "19/05/2017 • 00:43",
+            "categorieen": ["Oilpainting"],
+            "samenvatting": "The Last Supper by Leonardo Da Vinci",
+            "body": "<p>The Last Supper is a painting that depicts the last meal that Jesus had with his disciples. Displayed at the dining hall of Santa Maria delle Grazie in Milan, this painting has also created much controversy around Mary Magdalene, the supposed character sitting next to Jesus.<br><br>Leonardo da Vinci (Vinci, 15 april 1452 - Amboise, 2 mei 1519) was een architect, uitvinder, ingenieur, filosoof, natuurkundige, scheikundige, anatomist, beeldhouwer, schrijver, schilder en componist uit de Florentijnse Republiek, tijdens de Italiaanse renaissance. Hij wordt gezien als het schoolvoorbeeld van het renaissance-ideaal van de homo universalis en als genie.</p>",
+            "afbeeldingl": "s2.jpg",
+            "afbeeldings": "s2.jpg",
+            "afbeeldinge1": "s2_1.jpg",
+            "tags": "supper"
+        },
+        {
+            "titel": "The Girl With a Pearl Earring.",
+            "id": 196,
+            "datum": "21/05/2017 • 00:49",
+            "categorieen": ["Baroque", "1600s", "Oilpainting"],
+            "samenvatting": "The Girl With a Pearl Earring by Johannes Vermeer",
+            "body": "<p>The Girl With a Pearl Earring is often known as Dutch Monalisa because the expression on the girl’s face is hard to understand. This painting by Johannes Vermeer has her pearl earrings as the focal point.<br><br>Johannes[1] Vermeer (gedoopt te Delft, 31 oktober 1632 – begraven aldaar, 15 december 1675) is een van de beroemdste Nederlandse kunstschilders en leefde in de Gouden Eeuw. Vermeer had een voorkeur voor tijdloze, ingetogen momenten. Hij blijft raadselachtig vanwege de onnavolgbare kleurstelling en het verbijsterende lichtgehalte. Vermeers schilderijen, meestal genrestukken en een paar historiestukken, allegorieën en stadsgezichten, onderscheiden zich door een subtiel kleurgebruik en een ideale compositie. Hij gebruikte soms dure pigmenten en had een grote voorkeur voor ultramarijn en loodtingeel.</p>",
+            "afbeeldingl": "s3.jpg",
+            "afbeeldings": "s3.jpg",
+            "afbeeldinge1": "s3_1.jpg",
+            "tags": "earring"
+        },
+        {
+            "titel": "The Scream.",
+            "id": 194,
+            "datum": "22/05/2017 • 00:11",
+            "categorieen": ["Oilpainting", "1800s"],
+            "samenvatting": "The Scream by Edvard Munch",
+            "body": "<p>The Scream is a painting by Edvard Munch of Norway and it shows the distorted face of a figure against a bloody sky. The hill landscape in the background adds to this picture’s charm. It is also one of the first few paintings done in expessionism style where the reality is blurred to give more importance to emotions.<br><br>Edvard Munch (Løten (Hedmark), 12 december 1863 – Ekely bij Oslo, 23 januari 1944) was een Noorse kunstschilder.</p>",
+            "afbeeldingl": "s4.jpg",
+            "afbeeldings": "s4.jpg",
+            "afbeeldinge1": "s4_1.jpg",
+            "tags": "scream"
+        },
+        {
+            "titel": "The Persistence of Memory.",
+            "id": 192,
+            "datum": "22/05/2017 • 00:11",
+            "categorieen": ["Oilpainting", "Surrealism", "1900s"],
+            "samenvatting": "The Persistence of Memory by Salvador Dali",
+            "body": "<p>This painting by the Spanish artist Salvador Dali is a classic example of surrealism where hard and soft things are present side by side. In this picture, a soft image of clock slides in the background of a hard table.<br><br>Salvador Domingo Felipe Jacinto Dalí i Domènech, markies de Dalí de Pubol (Figueres, 11 mei 1904 – aldaar, 23 januari 1989) was een Spaans kunstschilder.</p>",
+            "afbeeldingl": "s6.jpg",
+            "afbeeldings": "s6.jpg",
+            "afbeeldinge1": "s5_1.jpg",
+            "tags": "persistence"
+        },
+        {
+            "titel": "Dogs Playing Poker.",
+            "id": 190,
+            "datum": "22/05/2017 • 00:11",
+            "categorieen": ["Oilpainting", "1900s"],
+            "samenvatting": "Dogs Playing Poker by C.M. Coolidge",
+            "body": "<p>Painted in 1903 by C.M. Coolidge, this painting has 16 images of dogs sitting around a poker table and playing cards. This painting was an iconic depiction of Americans during the early part of 19th century.<br><br>Cassius Marcellus Coolidge (September 18, 1844 – January 24, 1934) was an American artist, mainly known for his series of paintings Dogs Playing Poker. Known as Cash or Kash in his family, he often signed his work in the 19th century with the latter spelling, sometimes spelling out his entire name, for comic effect, as Kash Koolidge.</p>",
+            "afbeeldingl": "s10.jpg",
+            "afbeeldings": "s10.jpg",
+            "afbeeldinge1": "s10_1.jpg",
+            "tags": "Poker"
+        },
+        {
+            "titel": "Portrait of Madame Juliette Recamier.",
+            "id": 188,
+            "datum": "22/05/2017 • 00:11",
+            "categorieen": ["1800s"],
+            "samenvatting": "Portrait of Madame Juliette Recamier by Jacques-Louis David.",
+            "body": "<p>This portrait shows Juliette Recamier sitting on a style sofa in a simple dress with bare arms. This painting steeped in neoclassical fashion is now located at Louvre in France.<br><br>Jacques-Louis David (Parijs, 30 augustus 1748 – Brussel, 29 december 1825), vaak kortweg David genoemd, was een Frans kunstschilder van nuchtere historiestukken en portretten. Hij was de leidende figuur van het neoclassicisme en beïnvloedde veel 19e-eeuwse Franse schilders.</p>",
+            "afbeeldingl": "s11.jpg",
+            "afbeeldings": "s11.jpg",
+            "afbeeldinge1": "s11_1.jpg",
+            "tags": "Juliette"
+        },
+        {
+            "titel": "No.5",
+            "id": 186,
+            "datum": "22/05/2017 • 00:11",
+            "categorieen": ["Surrealism", "1900s"],
+            "samenvatting": "No.5 by Jackson Pollock",
+            "body": "<p>This famous painting by Jackson Pollock is a signature piece of art that depicts the chaos raging within Pollock at the time of painting. The many swirls and meshes make it a unique piece of work. For these reasons, it is one of the most expensive paintings ever sold by an American artist as it was sold for a huge $140 million.<br><br>Paul Jackson Pollock (January 28, 1912 – August 11, 1956), known professionally as Jackson Pollock, was an American painter and a major figure in the abstract expressionist movement. He was well known for his unique style of drip painting.</p>",
+            "afbeeldingl": "s12.jpg",
+            "afbeeldings": "s12.jpg",
+            "afbeeldinge1": "s12_1.jpg",
+            "tags": "No5"
+        },
+        {
+            "titel": "The Son of Man.",
+            "id": 184,
+            "datum": "22/05/2017 • 00:11",
+            "categorieen": ["Oilpainting", "Surrealism", "1900s"],
+            "samenvatting": "The Son of Man by Rene Magrittees",
+            "body": "<p>The Son of Man, painted by Rene Magrittees, is a piece of work that shows his own self in a black suit, but with an apple instead of his face.<br><br>René François Ghislain Magritte (French: [ʁəne fʁɑ̃swa ɡilɛ̃ maɡʁit]; 21 November 1898 – 15 August 1967) was a Belgian surrealist artist. He became well known for a number of witty and thought-provoking images. Often depicting ordinary objects in an unusual context, his work is known for challenging observers' preconditioned perceptions of reality. His imagery has influenced pop, minimalist and conceptual art.</p>",
+            "afbeeldingl": "s13.jpg",
+            "afbeeldings": "s13.jpg",
+            "afbeeldinge1": "s13_1.jpg",
+            "tags": "Son"
+        },
+        {
+            "titel": "Royal Red and Blue.",
+            "id": 182,
+            "datum": "22/05/2017 • 00:11",
+            "categorieen": ["Oilpainting", "1900s"],
+            "samenvatting": "Royal Red and Blue by Mark Rothko",
+            "body": "<p>This recent painting by Mark Rothko shows royal blue and red squares on a canvas. The highlight of this painting is its hand-made canvas, and it is currently placed in the Art Institute at Chicago.<br><br>Mark Rothko (Daugavpils (Letland), 25 september 1903 - New York, 25 februari 1970) was een Amerikaanse schilder. Marcus Rothkowitz, zoals hij oorspronkelijk heette, was een vertegenwoordiger van het abstract expressionisme, de zogenaamde colorfield-stroming.</p>",
+            "afbeeldingl": "s14.jpg",
+            "afbeeldings": "s14.jpg",
+            "afbeeldinge1": "s14_1.jpg",
+            "tags": "Royal"
+        }
+    ]
+}

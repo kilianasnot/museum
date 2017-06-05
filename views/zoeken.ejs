@@ -1,0 +1,21 @@
+<% include header %>
+  <% for (var i = 0; i < items.length; i++) { %>
+    <%if ("tags" in items[i]){ %>
+    <% if (items[i].tags.indexOf(term) !== -1) { %>
+
+				<br><br>
+        <section>
+                      <img class="lnktst" src="/img/<%- items[i].afbeeldings %>" alt="<%- items[i].titel %>">
+
+            <p>
+              <%- items[i].samenvatting %>
+            </p>
+        </section>
+
+
+<%  } %>
+      <% } %>
+
+  <% } %>
+
+<% include footer %>

@@ -1,0 +1,43 @@
+<% include header %>
+
+<nav>
+  <% for (var i = 0; i < categorieen.length; i++) { %>
+<a href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
+  <% } %>
+</nav>
+
+<form action="/zoeken" method:"get">
+  Zoeken: <input type="text" name="search"><br>
+  <input type="submit" value="Submit">
+</form>
+
+
+<hr>
+
+<br><br>
+
+  <% var teller = 1; %>
+  <% nieuws.forEach(function(item){ %>
+    <section>
+
+        <h2 class="title">
+
+          <a href=/items/<%- item.id %>><%- item.titel %></a>
+        </h2>
+
+        <a href=/items/<%- item.id %>><img class="bgn" src="/img/<%- item.afbeeldings %>" alt="<%- item.titel %>"></a>
+
+        <!--
+        <p><%- item.datum %></p>
+
+        <p>
+          <%- item.samenvatting %>
+        </p>
+      -->
+    </section>
+    <% teller++;}); %>
+
+
+
+
+<% include footer %>

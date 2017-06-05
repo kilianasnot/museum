@@ -1,0 +1,30 @@
+<a href="/"><% include header %></a>
+
+<nav>
+  <% for (var i = 0; i < categorieen.length; i++) { %>
+<a href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
+  <% } %>
+</nav>
+
+<h2 class="cattext">Showing categories for: <span id="cat"><%- categorieen[id] %></span></h2>
+<a class="del" href="/">Delete all filters</a>
+
+  <% for (var i = 0; i < items.length; i++) { %>
+    <% if (items[i].categorieen.indexOf(categorieen[id]) !== -1) { %>
+      <section>
+
+            <a href=/items/<%- items[i].id %>><img class="grpt" src="/img/<%- items[i].afbeeldings %>" alt="<%- items[i].titel %>"></a>
+
+
+          <p>
+            <%- items[i].samenvatting %>
+        </p>
+
+
+
+      </section>
+      <br><hr><br>
+    <% } %>
+  <% } %>
+
+<% include footer %>

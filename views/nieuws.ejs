@@ -1,0 +1,62 @@
+<a href="/"><% include header %></a>
+
+
+<br><br><br>
+
+
+
+<section>
+
+    <h2 class="title2">
+      <%- item.titel %>
+    </h2>
+    <img class="lnktst" src="/img/<%- item.afbeeldingl %>" alt="<%- item.titel %>">
+
+    <p class="dtm"><%- item.datum %></p>
+
+    <br>
+
+    <p>
+      <%- item.body %>
+    </p>
+
+    <br><br><br>
+
+
+      <img class="grpa" src="/img/<%- item.afbeeldinge1 %>" alt="<%- item.titel %>">
+
+
+    <p>Gepost in categorieën:
+
+      <% for (var i = 0; i < item.categorieen.length; i++) { %>
+        <a href="/categorieen/<%- i %>"><%- item.categorieen[i] %></a><% if (i+1< item.categorieen.length){ %>, <% } %>
+      <% } %>
+    </p>
+</section>
+
+<br><br>
+
+<div id="disqus_thread"></div>
+<script>
+
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-secret-peak-54151-herokuapp-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+<% include footer %>
